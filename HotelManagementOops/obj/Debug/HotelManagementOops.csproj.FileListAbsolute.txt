@@ -1,0 +1,7 @@
+C:\Users\SubhasmitaSahu\source\repos\HotelManagementOops\HotelManagementOops\obj\Debug\HotelManagementOops.csproj.AssemblyReference.cache
+C:\Users\SubhasmitaSahu\source\repos\HotelManagementOops\HotelManagementOops\obj\Debug\HotelManagementOops.csproj.CoreCompileInputs.cache
+C:\Users\SubhasmitaSahu\source\repos\HotelManagementOops\HotelManagementOops\bin\Debug\HotelManagementOops.exe.config
+C:\Users\SubhasmitaSahu\source\repos\HotelManagementOops\HotelManagementOops\bin\Debug\HotelManagementOops.exe
+C:\Users\SubhasmitaSahu\source\repos\HotelManagementOops\HotelManagementOops\bin\Debug\HotelManagementOops.pdb
+C:\Users\SubhasmitaSahu\source\repos\HotelManagementOops\HotelManagementOops\obj\Debug\HotelManagementOops.exe
+C:\Users\SubhasmitaSahu\source\repos\HotelManagementOops\HotelManagementOops\obj\Debug\HotelManagementOops.pdb
